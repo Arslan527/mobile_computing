@@ -1,2 +1,2 @@
-# mobile_computing
-mobile computing task 
+# calculator
+calculator task 
